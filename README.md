@@ -19,8 +19,8 @@ React-clicky-game is a simple memory game created using React. This project requ
 
 <h2><b>Technologies Used:</b></h2>
 
-HTML
-CSS
-JavaScript
-Node.js
+HTML<br/>
+CSS<br/>
+JavaScript<br/>
+Node.js<br/>
 React
